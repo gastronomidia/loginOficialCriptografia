@@ -1,8 +1,7 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+echo '<meta charset=utf-8>';
+echo '<h2> Index </h2>';
+echo '<a href=frmCadastro.php>Cadastre-se</a><br/>';
+echo '<a href=frmLogin.php>Login</a><br/>';
+echo '<a href=frmRecSenha.php>Recuperar senha</a>';
